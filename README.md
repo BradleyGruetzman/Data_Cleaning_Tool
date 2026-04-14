@@ -27,28 +27,28 @@ This application allows users to explore datasets, clean data, engineer features
 ![Home Screen](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Home_Screen.PNG)
 
 ### Load CSV
-![Load CSV](Data_Cleaning_Tool_Screenshots/Load_CSV.png)
+![Load CSV](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Load_CSV.PNG)
 
 ### File Summary
-![File Summary](Data_Cleaning_Tool_Screenshots/File_Summary.png)
+![File Summary](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/File_Summary.PNG)
 
 ### Column Selection
-![Column Select](Data_Cleaning_Tool_Screenshots/Column_Select.png)
+![Column Select](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Column_Select.PNG)
 
 ### Change Data Type
-![Change Data Type](Data_Cleaning_Tool_Screenshots/Change_Data_Type.png)
+![Change Data Type](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Change_Data_Type.PNG)
 
 ### Handle Missing Data
-![Handle Missing Data](Data_Cleaning_Tool_Screenshots/Handle_Missing_Data.png)
+![Handle Missing Data](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Handle_Missing_Data.PNG)
 
 ### Find & Replace
-![Find & Replace](Data_Cleaning_Tool_Screenshots/Find_&_Replace.png)
+![Find & Replace](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Find_&_Replace.PNG)
 
 ### Create New Column
-![Create New Column](Data_Cleaning_Tool_Screenshots/Create_New_Column.png)
+![Create New Column](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Create_New_Column.PNG)
 
 ### AI Summary
-![AI Summary](Data_Cleaning_Tool_Screenshots/Generate_AI_Summary.png)
+![AI Summary](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Generate_AI_Summary.PNG)
 
 ---
 
