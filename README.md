@@ -75,7 +75,7 @@ Data_Cleaning_Tool/
 2. Install dependencies:
 
 ```bash
-pip install pandas openai
+pip install pandas openai```
 
 3. Run the application:
 python data_cleaning_tool.py
@@ -86,7 +86,7 @@ This tool includes an AI-powered dataset summary using the OpenAI API.
 
 To enable this feature:
 ```bash
-setx OPENAI_API_KEY "your_api_key_here"
+setx OPENAI_API_KEY "your_api_key_here"```
 
 Restart your terminal or IDE after setting the key.
 Note: The application does not store or include any API keys.
