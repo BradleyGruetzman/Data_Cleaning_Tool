@@ -93,8 +93,8 @@ Restart your terminal or IDE after setting the key.
 Note: The application does not store or include any API keys.
 
 ## Technologies Used
-Python
-Pandas
-Tkinter
-OpenAI API
+- Python
+- Pandas
+- Tkinter
+- OpenAI API
 
