@@ -24,7 +24,7 @@ This application allows users to explore datasets, clean data, engineer features
 ## Screenshots
 
 ### Main Interface
-![Home Screen](Data_Cleaning_Tool_Screenshots/Home_Screen.png)
+![Home Screen](Data_Cleaning_Tool/Data_Cleaning_Tool_Screenshots/Home_Screen.png)
 
 ### Load CSV
 ![Load CSV](Data_Cleaning_Tool_Screenshots/Load_CSV.png)
