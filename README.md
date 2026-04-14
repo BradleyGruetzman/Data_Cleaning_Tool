@@ -53,19 +53,19 @@ This application allows users to explore datasets, clean data, engineer features
 ---
 
 ## File Structure
-Data_Cleaning_Tool/
-│── data_cleaning_tool.py
-│── Data_Cleaning_Tool_Screenshots/
-│ ├── Home_Screen.png
-│ ├── File_Summary.png
-│ ├── Change_Data_Type.png
-│ ├── Column_Select.png
-│ ├── Create_New_Column.png
-│ ├── Find_&_Replace.png
-│ ├── Generate_AI_Summary.png
-│ ├── Handle_Missing_Data.png
-│ ├── Load_CSV.png
 
+- Data_Cleaning_Tool/
+  - data_cleaning_tool.py
+  - Data_Cleaning_Tool_Screenshots/
+    - Home_Screen.png
+    - File_Summary.png
+    - Change_Data_Type.png
+    - Column_Select.png
+    - Create_New_Column.png
+    - Find_&_Replace.png
+    - Generate_AI_Summary.png
+    - Handle_Missing_Data.png
+    - Load_CSV.png
 
 ---
 
@@ -75,7 +75,7 @@ Data_Cleaning_Tool/
 2. Install dependencies:
 
 ```bash
-pip install pandas openai```
+pip install pandas openai
 
 3. Run the application:
 python data_cleaning_tool.py
@@ -86,7 +86,7 @@ This tool includes an AI-powered dataset summary using the OpenAI API.
 
 To enable this feature:
 ```bash
-setx OPENAI_API_KEY "your_api_key_here"```
+setx OPENAI_API_KEY "your_api_key_here"
 
 Restart your terminal or IDE after setting the key.
 Note: The application does not store or include any API keys.
