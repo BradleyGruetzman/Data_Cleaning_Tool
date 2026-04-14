@@ -78,9 +78,10 @@ This application allows users to explore datasets, clean data, engineer features
 pip install pandas openai
 ```
 3. Run the application:
+```bash
 python data_cleaning_tool.py
-
-AI Summary Feature (Optional)
+```
+## AI Summary Feature (Optional)
 
 This tool includes an AI-powered dataset summary using the OpenAI API.
 
@@ -91,7 +92,7 @@ setx OPENAI_API_KEY "your_api_key_here"
 Restart your terminal or IDE after setting the key.
 Note: The application does not store or include any API keys.
 
-Technologies Used
+## Technologies Used
 Python
 Pandas
 Tkinter
